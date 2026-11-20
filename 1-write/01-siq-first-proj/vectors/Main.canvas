@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"9370396564343e84","x":1360,"y":140,"width":680,"height":540,"type":"file","file":"000-proactive.md"},
+		{"id":"20394f6ecee36f63","type":"file","file":"1-write/01-siq-first-proj/vectors/transacting/000-transacting.md","x":560,"y":140,"width":680,"height":540},
+		{"id":"b259ad1c87bd1fe8","type":"file","file":"1-write/01-siq-first-proj/vectors/configuring/000-configuring.md","x":-260,"y":140,"width":680,"height":540},
+		{"id":"55190f3690853775","type":"file","file":"1-write/01-siq-first-proj/vectors/onboarding/000-onboarding.md","x":-1020,"y":140,"width":640,"height":540},
+		{"id":"2af34556fe1d6afc","type":"text","text":"# FDE 01: MyCTO - MicroSMB\n\n> A platform for smaller organizations to get proactive IT feedback and connect to the distribution ecosystem.","x":200,"y":-640,"width":580,"height":240}
+	],
+	"edges":[
+		{"id":"43fda164622b9c58","fromNode":"2af34556fe1d6afc","fromSide":"bottom","toNode":"55190f3690853775","toSide":"top","color":"3"},
+		{"id":"9632ae01394a6d8e","fromNode":"2af34556fe1d6afc","fromSide":"bottom","toNode":"b259ad1c87bd1fe8","toSide":"top","color":"3"},
+		{"id":"ee732b7e5f82ca00","fromNode":"2af34556fe1d6afc","fromSide":"bottom","toNode":"20394f6ecee36f63","toSide":"top","color":"3"},
+		{"id":"a83c95cbf68520f6","fromNode":"2af34556fe1d6afc","fromSide":"bottom","toNode":"9370396564343e84","toSide":"top","color":"3"}
+	]
+}

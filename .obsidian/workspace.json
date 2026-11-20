@@ -76,6 +76,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "684aab097254d057",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0da1483639e2ba19",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,26 +153,11 @@
             }
           },
           {
-            "id": "bf4ca511a3e76151",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-ghost",
-              "title": "all-properties"
-            }
-          },
-          {
             "id": "b84222d81a318445",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -165,23 +165,29 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "d8f5cc55d2ddb197",
+        "type": "tabs",
+        "children": [
           {
-            "id": "0da1483639e2ba19",
+            "id": "52084e80f2ee7de0",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "git-view",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,7 +206,7 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "07a8bbba46251d26",
+  "active": "b84222d81a318445",
   "lastOpenFiles": [
     "1-write/daily/11-16-2026/11-20-2026.md",
     "1-write/res/styles/presentation-style.md",
